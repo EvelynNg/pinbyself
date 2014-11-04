@@ -12,6 +12,12 @@ gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.0'
 #masonry styling gem
 
+gem 'will_paginate', '~> 3.0.5'
+#this allow for index to be in pages
+
+gem 'will_paginate-bootstrap'
+
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
